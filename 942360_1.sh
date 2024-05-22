@@ -1,0 +1,1 @@
+curl -X POST http://hello.app:4080 -H "Host: localhost" -d "var=1234%20AS%20%22foobar%22%20FROM%20tablevar2=whatever"

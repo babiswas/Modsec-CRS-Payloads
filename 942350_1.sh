@@ -1,0 +1,1 @@
+curl -X GET http://hello.app:4080/?var=%3bINSERT%20INTO%20table%20%28col%29%20VALUES -H "Host: localhost"

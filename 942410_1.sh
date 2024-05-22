@@ -1,0 +1,1 @@
+curl -X POST http://hello.app:4080 -H "Host: localhost" -H "Cookie: 'msdasql'" -H "Cache-Control: no-cache, no-store, must-revalidate"
