@@ -1,0 +1,1 @@
+curl -X POST http://hello.app:4080 -H "User-Agent: ModSecurity CRS 3 Tests" -H "Host: localhost" -H "Accept: */*" -H "Accept-Language: en" -H "Connection: close" -H "Referer: 'http://localhost/'" -H "Content-Type: multipart/form-data; boundary=--------397236876" --form file='hello.txt'

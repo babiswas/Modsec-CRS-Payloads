@@ -1,0 +1,1 @@
+curl -X POST http://hello.app:4080/upload -H "Host: localhost" -H "User-Agent: ModSecurity CRS 3 Tests" --form file='@hello.txt'
