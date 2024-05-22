@@ -1,0 +1,1 @@
+curl -X GET http://hello.app:4080/baz -H "Host: localhost" -H "User-Agent: ModSecurity CRS 3 Tests" -H "Cookie: 'ja%26newline%3Bvascript%3A%20=941210-3'"

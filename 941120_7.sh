@@ -1,0 +1,1 @@
+curl -X POST http://hello.app:4080/ -H "Host: localhost" -d "<video src=1 href=1 onerror='javascript:alert(1)'></video>"

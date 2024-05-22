@@ -1,0 +1,1 @@
+curl -X POST http://hello.app:4080 -H "Host: localhost" -d "var=v%26newline;b%26tab;s%26newline;c%26newline;r%26tab;i%26tab;p%26newline;t%26colon;:&var2=whatever"

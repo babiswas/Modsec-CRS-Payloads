@@ -1,0 +1,1 @@
+curl -X POST http://hello.app:4080 -H "Host: localhost" -d "var=<embed src=\"deuce.swf\">&var2=whatever"

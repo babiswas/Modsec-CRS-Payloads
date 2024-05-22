@@ -1,0 +1,1 @@
+curl -X GET http://hello.app:4080 -H "User-Agent: ModSecurity CRS 3 Tests" -H "Host: localhost" -H "Content-Type: application/x-www-form-urlencoded" -H "Content-Length: 72" -d x=%3CSTYLE%3E%40im%5Cport%27%5Cja%0Basc%5Cript%3Aalert%28%27XSS%27%29%27
