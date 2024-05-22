@@ -1,0 +1,1 @@
+curl -X GET 'http://hello.app:4080/script_rule.jsp?variableX=bar&variable2=Y&%0d%0Remote-addr%0d%0d%0d:%20foo.bar.com' -H "User-agent: user agent" -H "Host: localhost"

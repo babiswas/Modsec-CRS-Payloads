@@ -1,0 +1,1 @@
+curl -X GET http://hello.app:4080/ -H "Host: localhost" -H "FoobarHeader: 0x5c0x2e.%00/"

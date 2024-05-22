@@ -1,0 +1,1 @@
+curl -X GET http://hello.app:4080/file.jsp?somevar=foobar%0d%0aContent-Length:'%2002343432423<html>ftw</html>' -H "Host: localhost" -H "Proxy-Connection: keep-alive" -H "Referer: http" -H "User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"

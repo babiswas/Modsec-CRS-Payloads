@@ -1,0 +1,1 @@
+curl -X GET http://hello.app:4080 -H "Host: localhost" -H "User-Agent: ModSecurity CRS 3 Tests" -H "lock-token: test"
