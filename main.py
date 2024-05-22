@@ -6,9 +6,9 @@ import subprocess
 
 if __name__=="__main__":
     myrule=set()
-    username="zuser"
-    hostname="10.66.16.218"
-    password="Am@zing@23!"
+    username=""
+    hostname=""
+    password=""
     for file,rule_string in owasp_rule_map.items():
         rule_list=rule_string.split(',')
         utc1=str(get_current_utc_time()).split('.')[0]
