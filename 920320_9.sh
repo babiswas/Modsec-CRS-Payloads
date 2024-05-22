@@ -1,0 +1,2 @@
+
+curl -X GET http://hello.app:4080/index.html -H "Host: localhost" -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8" -H "Accept-Language: en-US,en;q=0.5" -H "Accept-Encoding: gzip, deflate" -H "Connection: close" -H "Upgrade-Insecure-Requests: 1" -H "User-Agent:"
