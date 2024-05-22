@@ -1,0 +1,1 @@
+curl -X POST http://hello.app:4080 "Host: localhost" -d "1337 INTO OUTFILE ‘xxx’--" --http1.0

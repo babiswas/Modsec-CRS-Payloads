@@ -1,0 +1,1 @@
+curl -X GET "http://hello.app:4080/anything" --data 'Content-Disposition: form-data; name="file"; filename="myimage.png"' -v

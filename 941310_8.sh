@@ -1,0 +1,1 @@
+curl -X GET 'http://hello.app:4080/?msgbox=DE_Matten+%26+Sitzbez%C3%BCge+%3E+Fu%C3%9Fmatten_MT)'
