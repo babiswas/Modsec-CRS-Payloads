@@ -1,0 +1,1 @@
+curl -X GET http://hello.app:4080/?x=%24_aB_4c%20%23foo%0D%0A%09%5B5%5D%2F%2Fbar%0D%0A%09%5B%27d%27%5D%20%2F%2Afoo%2A%2F%20%2817%29 -H "Host: localhost" -H "User-Agent: ModSecurity CRS 3 Tests"

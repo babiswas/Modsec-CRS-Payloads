@@ -1,0 +1,1 @@
+curl -F "file=@hello.php" http://hello.app:4080/bapan
