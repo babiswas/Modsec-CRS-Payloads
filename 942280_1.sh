@@ -1,0 +1,1 @@
+curl -X GET http://hello.app:4080/?var=select%20pg_sleep -H "Host: localhost"

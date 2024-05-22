@@ -1,0 +1,1 @@
+curl -X POST http://hello.app:4080 "Host: localhost" -H "User-Agent: ModSecurity CRS 3 Tests" -d "O:32:'MonologHandlerSyslogUdpHandler':1:{s:9:'*socket';O:29:'MonologHandlerBufferHandler':7:{s:10:'*ha"

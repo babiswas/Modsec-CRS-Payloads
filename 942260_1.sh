@@ -1,0 +1,1 @@
+curl -X GET http://hello.app:4080/?var=something%20LIKE%20%27 -H "Host: localhost"
